@@ -16,7 +16,7 @@ const quotes = [
         author: "나다",
     },
     {
-        quote: "기호 1번 정민서!!!",
+        quote: "기호 1번 정모씨!!!",
         author: "정모씨",
     },
     {
